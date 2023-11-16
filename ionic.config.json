@@ -1,0 +1,7 @@
+{
+  "name": "nandakho.my.id",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
