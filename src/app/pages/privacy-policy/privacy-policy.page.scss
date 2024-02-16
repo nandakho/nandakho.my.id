@@ -1,0 +1,22 @@
+div {
+    color: var(--ion-color-medium-tint);
+    p, li {
+        padding: 3px 4px;
+    }
+    li {
+        padding-left: 6px;
+    }
+    h3 {
+        border-bottom: 1px solid var(--ion-color-medium-tint);
+        margin-left: 4px;
+        margin-right: 4px;
+        padding-top: 8px;
+    }
+    a {
+        color: rgba(var(--ion-color-warning-rgb),0.7);
+        text-decoration: none;   
+    }
+    p.footnote {
+        float:right;
+    }
+}

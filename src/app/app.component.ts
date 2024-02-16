@@ -11,6 +11,7 @@ export class AppComponent {
   public appPages = [
     { title: 'Tools of Fantasy', url: 'https://tof.nandakho.my.id', icon: 'game-controller', type: "External" },
     { title: 'Helper Star Rail', url: 'https://hsr.nandakho.my.id', icon: 'train', type: "External" },
+    { title: 'Privacy Policy', url: 'privacy', icon: 'shield', type: "Internal" },
   ];
   constructor() {}
 }
